@@ -1,0 +1,14 @@
+
+
+input.ng-invalid.ng-touched,
+select.ng-invalid.ng-touched,
+input.ng-invalid.ng-dirty,
+select.invalid.ng-dirty{
+    border: 2px solid red;
+}
+
+.Angimg{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
